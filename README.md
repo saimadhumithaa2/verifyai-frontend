@@ -17,3 +17,4 @@ A simple frontend-only React application for AI KYC verification.
 ```bash
 npm install
 npm run dev
+```
